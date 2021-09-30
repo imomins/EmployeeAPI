@@ -1,0 +1,4 @@
+E:\Microservice\EmployeeAPI\EmployeeAPI.DATA\bin\Debug\EmployeeAPI.DATA.dll
+E:\Microservice\EmployeeAPI\EmployeeAPI.DATA\bin\Debug\EmployeeAPI.DATA.pdb
+E:\Microservice\EmployeeAPI\EmployeeAPI.DATA\obj\Debug\EmployeeAPI.DATA.dll
+E:\Microservice\EmployeeAPI\EmployeeAPI.DATA\obj\Debug\EmployeeAPI.DATA.pdb
